@@ -5,7 +5,7 @@
  */
 
 // 🔌 ระบุ URL ของ Google Apps Script Web App API ที่ได้จากการ Deploy ของคุณ
-const API_ENDPOINT = "https://script.google.com/macros/s/AKfycbwdQDcPlPjta0M0SdrVFe4kaq9GPf4dXgwCUlMK1j9NMhYSDJEbjZEyVNzJe_qa3W_S/exec";
+const API_ENDPOINT = "https://script.google.com/macros/s/AKfycbzFxdWyv9nyRJR0InpuI7DAfe-JGO84-MnrECopbI-LGRldb0MShGcnlz-ZpihbZ-Ak/exec";
 
 let appState = {
   isExamStarted: false,
